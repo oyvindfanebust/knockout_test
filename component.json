@@ -1,0 +1,14 @@
+{
+  "name": "knockout_test",
+  "repo": "oyvindfanebust/knockout_test",
+  "description": "",
+  "version": "2.2.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "knockout.js",
+  "scripts": [
+    "knockout.js"
+  ]
+}
